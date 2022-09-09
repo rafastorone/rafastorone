@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafastorone
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning .Java, Kotlin, Spring Boot and lots of things about the software development life cycle. 
+- 🌱 I’m currently learning Java, Kotlin, Spring Boot and lots of things about the software development life cycle. 
 - 📫 How to reach me: 
     https://www.linkedin.com/in/rafael-purcini-storone-418450162/
 
